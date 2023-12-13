@@ -1,4 +1,4 @@
-# Customer Banking: Earned Interest Calculator
+# Customer Banking—Earned Interest Calculator
 
    ### CONTENTS
 **[The Challenge](#the-challenge)**<br>
@@ -24,24 +24,24 @@ The final starter code file provides the layout and instructions for coding basi
 
 ## Challenge Checklist
 
-- [ ] Import Account class to savings account module
-- [ ] Create savings account function
-- [ ] Instantiate savings account
-- [ ] Calculate interest and update account
-- [ ] Pass and return information from function
-- [ ] Import Account class to CD account module
-- [ ] Create CD account function
-- [ ] Instantiate CD account
-- [ ] Calculate interest and update account
-- [ ] Pass and return information from function
-- [ ] Import both functions for main banking module
-- [ ] Prompt user for savings balance, interest rate and months to save
-- [ ] Call function and pass in data
-- [ ] Print returned data for user
-- [ ] Prompt user for CD balance, interest rate and months to save
-- [ ] Call function and pass in data
-- [ ] Print returned data for user
-- [ ] Call the main function from boilerplate
+- [x] Import Account class to savings account module
+- [x] Create savings account function
+- [x] Instantiate savings account
+- [x] Calculate interest and update account
+- [x] Pass and return information from function
+- [x] Import Account class to CD account module
+- [x] Create CD account function
+- [x] Instantiate CD account
+- [x] Calculate interest and update account
+- [x] Pass and return information from function
+- [x] Import both functions for main banking module
+- [x] Prompt user for savings balance, interest rate and months to save
+- [x] Call function and pass in data
+- [x] Print returned data for user
+- [x] Prompt user for CD balance, interest rate and months to save
+- [x] Call function and pass in data
+- [x] Print returned data for user
+- [x] Call the main function from boilerplate
 
 ## Running the Program
 
@@ -50,3 +50,4 @@ The program folder contains four python scripts. Only one should be entered into
 ```
 python customer_banking.py
 ```
+
