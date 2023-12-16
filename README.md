@@ -4,6 +4,7 @@
 **[The Challenge](#the-challenge)**<br>
 **[Starter Code](#starter-code)**<br>
 **[Challenge Checklist](#challenge-checklist)**<br>
+**[Refactoring/Modularization](#refactoringmodularization)**<br>
 **[Running the Program](#running-the-program)**<br>
 
 ## The Challenge
@@ -43,11 +44,21 @@ The final starter code file provides the layout and instructions for coding basi
 - [x] Print returned data for user
 - [x] Call the main function from boilerplate
 
+## Refactoring/Modularization
+
+In the spirit of course materials presented this week, I completed the challenge but also refactored the code into reusable functions which I then also placed in a separate module.  The refactored version also includes accurate doc strings for the two utility functions.  I provide both versions herein.
+
 ## Running the Program
 
-The program folder contains four python scripts. Only one should be entered into the command line to run the program:
+The program folder contains six python scripts. Only one need be entered into the command line to run the program. The primary program can be run with:
 
 ```
 python customer_banking.py
+```
+
+Additionally, the refactored version can be run with:
+
+```
+python refactored_banking.py
 ```
 
